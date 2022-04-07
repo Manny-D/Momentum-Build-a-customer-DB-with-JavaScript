@@ -1,0 +1,28 @@
+body {
+    width: 1000px;
+    
+    /* margin: 0; */
+}
+
+#allCustomers {
+    text-transform: capitalize;
+    display: flex;
+    flex-wrap: wrap;
+    /* height: 800px;
+    width: 600px; */
+}
+
+ .person {
+    /* border: 1px red solid; */
+    width: 237px;
+    height: 375px;
+    text-align: center;
+  /* margin: 10px auto; */
+  /* display: flex;
+  flex-wrap: wrap;
+  justify-content:center; */
+} 
+
+.image {
+ border-radius: 50%;
+  }
